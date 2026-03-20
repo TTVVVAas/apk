@@ -3,4 +3,4 @@
 Downloads publicos da app Android.
 
 Ficheiro atual:
-- `1.16.14_universal.apk`
+- `1.16.15_universal.apk`
